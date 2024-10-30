@@ -1,0 +1,75 @@
+*{margin: 0;}
+header{
+    background-color: rgb(13, 1, 20);
+    height: px;
+    background-position: center ;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    padding: auto;
+    color: rgb(231, 210, 21);
+}
+nav ul li{
+    display: inline-block;
+    margin-right:50px ;  }
+    background-image: url(
+        https://cdn.builder.io/api/v1/image/assets%2F154c26b5aba740d887bf6c8d097dff30%2F80d50ae71a424db19f6351e06bca5bf0?width=500&height=500
+        ) ;
+
+.container{
+    background-color: rgb(201, 169, 151);
+    width: 800px;
+    margin: 0 auto;
+}
+iframe{
+    margin:0 auto;
+    display: block;
+}
+h2{color: rgb(7, 103, 212);}
+p{color: rgb(36, 91, 112);}
+nav{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+margin: 0 auto;
+padding: 10px;
+text-align: center;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(15, 15, 15);
+    text-align: center;
+    
+}
+p{text-align: center;
+    display: block;
+}
+.container{
+    background-color: rgb(201, 169, 151);
+    width: 800px;
+    margin: 0 auto;
+
+}
+p {
+
+    height : 100px ;
+  
+    largeur : 100px ;
+  
+    arrière-plan color: resize:none;;
+  
+    color : rgb(4, 102, 148) ;
+  
+  }
+  #btn1{
+
+    background : $primaryColor ;
+
+}
+{
+
+    fond : $primaryColor ;
+
+}
+      
